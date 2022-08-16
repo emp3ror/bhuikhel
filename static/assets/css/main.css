@@ -3289,3 +3289,18 @@ section {
 .mb-24  {
   margin-bottom: 24px;
 }
+
+.img-float {
+  width: 50%;
+  float: right;
+  padding: 0 20px 20px 0;
+  
+}
+
+@media screen and (max-width: 680px) {
+  .img-float {
+    width: 100%;
+    float: none;
+    padding: 0 0px 20px 0;
+  }
+}
