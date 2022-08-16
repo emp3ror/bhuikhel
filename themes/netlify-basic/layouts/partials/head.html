@@ -8,6 +8,24 @@
   
     <meta content="" name="description">
     <meta content="" name="keywords">
+
+    <meta property="og:url" content="{{ .Site.BaseURL }}{{ .RelPermalink }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{if .Params.socialTitle }}{{.Params.socialTitle}}{{else}}{{ .Title }}{{end}}" />
+  <meta property="og:description"
+    content="bhuikhel youth club" />
+  <meta property="og:image"
+    content="https://bhuikhelyouth.club/assets/img/poster.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{.Site.BaseURL}}">
+  <meta property="twitter:title"
+    content="{{if .Params.socialTitle }}{{.Params.socialTitle}}{{else}}{{ .Title }}{{end}}">
+  <meta property="twitter:description"
+    content="bhuikhel youth club">
+  <meta property="twitter:image"
+    content="https://bhuikhelyouth.club/assets/img/poster.jpg">
   
     <!-- Favicons -->
     <link href="/favicon-32x32.png" rel="icon">
