@@ -9,7 +9,7 @@ First Bhuikhel 7A side Interschool tournament
 We are proud to announce 1st Bhuikhel 7A side interschool tournament organized by bhuikhel youth club. These tournaments will provide an opportunity for young aspiring players to compete and of course showcase their talent to national level.
 
 ##### When:
-Our Bhuikhel tournament will take place between **August 31, 2022 (15th Bhadra) to September 03, 2022 (18th Bhadra)**. We will release a detailed schedule of matches close to the launch of the tournament.
+Our Bhuikhel tournament will take place between **September 16, 2022 (31th Bhadra) to September 17, 2022 (1st Ashoj)**. We will release a detailed schedule of matches close to the launch of the tournament.
 
 <div class="mb-24">
     <a href="/assets/pdf/interschool-form.pdf" class="btn-getstarted scrollto" target="_blank">Download Form</a>
